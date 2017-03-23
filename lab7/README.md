@@ -1,4 +1,4 @@
-# Lab6
+# Lab7
 I use 
 60000 train samples
 10000 test samples
