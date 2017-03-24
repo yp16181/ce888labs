@@ -1,5 +1,10 @@
 # Lab7
 * I use 
+* batch_size = 128
+* nb_classes = 10
+* nb_epoch = 20
+ *   x = Dense(64)(x)
+ *   x = PReLU()(x)
 * 60000 train samples
 * 10000 test samples
 * Total params: 122,250
