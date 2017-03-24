@@ -9,4 +9,4 @@
 - [ ] Report the MSE on the test dataset
 
 
-just finished the first part. in the file" Untitled.ipynb"
+* just finished the first part.  trained the data with 80:10:10 proportion
