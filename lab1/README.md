@@ -1,31 +1,31 @@
 # Lab1 
 
-# Things I have done in this lab experiment.
+* Things I have done in this lab experiment.
 
-# Installed and set up the VM 
+* Installed and set up the VM 
 
-# logined the mlvm files according to the vm
+* logined the mlvm files according to the vm
 
-# Created a github account and CE888 project
+* Created a github account and CE888 project
 
-# Went into IRC
+* Went into IRC
  
- # Down loaded, and created a bot 
+* Down loaded, and created a bot 
 
 
-## Lab Exercises
+## Lab Exercises(done)
 
- #Added the emotions for each message
+* Added the emotions for each message
 
-# Calculate rolling average as ``ave = ave + a * (emotion -ave)``
+* Calculate rolling average as ``ave = ave + a * (emotion -ave)``
 
-#Set `a = 0.01`
+* Set `a = 0.01`
 
-#Find the average emotion for each nick as well
+* Find the average emotion for each nick as well
 
-#(the file name is bot.py)
+* (the file name is bot.py)
 
-#uploaded them to github
+* uploaded them to github
 
 #It is a simple experiment that make me some sense about the vm
 
