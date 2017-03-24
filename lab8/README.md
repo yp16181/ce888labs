@@ -11,3 +11,4 @@
 * x = PReLU()(x)
 * x = dropout(0.2)(x)
 * The result for first step is 0.8278
+* The result for final step would take somuch time ,I did not finish the calculate step, but the code has been done.
